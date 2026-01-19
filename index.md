@@ -3,9 +3,9 @@ layout: single
 permalink: /
 author_profile: true
 classes: wide
+title: "Business Data Analyst | Analytics + Problem Solving"
 ---
 
-## Business Data Analyst | Analytics + Problem Solving
 I build end-to-end analytics—from **SQL/data modeling** to **machine learning**, **optimization**, and **unstructured data**—to generate **decision-ready insights and recommendations**.
 
 ### Focus areas
@@ -14,10 +14,4 @@ I build end-to-end analytics—from **SQL/data modeling** to **machine learning*
 - **Optimization & Decision Analytics:** formulations, constraints, trade-offs
 - **Unstructured Data & NLP:** text/image pipelines, retrieval, embeddings
 - **Information Management (SQL):** data modeling, queries, reporting
-- **Human Insights:** metrics, experiments, survey/behavioral insights
 
-### Explore
-- Experience: /experience/
-- Projects: /projects/
-- Resume: /resume/
-- Contact: /contact/
