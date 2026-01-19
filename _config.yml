@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Mikyung Oh"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Business Data Analyst | Commercial Analytics"
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "Business analytics portfolio spanning SQL/data modeling, machine learning, optimization, and unstructured data—focused on turning analysis into clear insights and recommendations. Includes reproducible code and reports from industry work, MSBA coursework, and a capstone market trend project (NetApp)"
 url                      : "https://aubrey5739.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mikyung Oh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Business Data Analyst with 5 years of industry experience. I deliver end-to-end analytics—SQL/data modeling, ML, optimization, and unstructured data—to produce decision-ready insights and recommendations."
   location         : "Somewhere"
   email            :
   links:
