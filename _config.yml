@@ -116,7 +116,7 @@ author:
   name             : "Mikyung Oh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Business Data Analyst with 5 years of industry experience. I deliver end-to-end analytics—SQL/data modeling, ML, optimization, and unstructured data—to produce decision-ready insights and recommendations."
-  location         : "Somewhere"
+  location         : "Austin, TX"
   email            :
   links:
     - label: "Email"
